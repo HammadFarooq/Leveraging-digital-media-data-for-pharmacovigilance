@@ -13,4 +13,23 @@ It contains 149568 tweets that are filtered on three drugs and side effect lexic
 ### Data/review_dataset.csv:
 It contains 2837 reviews that are filtered on three drugs and side effect lexicon and labeled as "Health" by our classifier.
 
+### Data/adderall_Drug_com_ADR_lexicon.csv:
+It contains results for adderall on review_dataset.
+
+### Data/adderall_Twitter_ADR_lexicon.csv:
+It contains results for adderall on tweets_dataset.
+
+### Data/prozac_Drug_com_ADR_lexicon.csv:
+It contains results for prozac on review_dataset.
+
+### Data/prozac_Twitter_ADR_lexicon.csv:
+It contains results for prozac on tweets_dataset.
+
+### Data/xanax_Drug_com_ADR_lexicon.csv:
+It contains results for xanax on review_dataset.
+
+### Data/xanax_Twitter_ADR_lexicon.csv:
+It contains results for xanax on tweets_dataset.
+
+
 
