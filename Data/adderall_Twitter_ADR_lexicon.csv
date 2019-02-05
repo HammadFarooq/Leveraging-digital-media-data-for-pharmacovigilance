@@ -1,0 +1,436 @@
+SideEffect,Jaccard similarity coefficient,label
+narcolepsy,0.000509424,Indication
+sleep apnea|sleep decreased|sleep difficult|sleep disorder|sleep disorder nos|sleep disturbances|sleep loss|sleep paralysis|sleep problem|sleeplessness|restless sleep|excessive sleepiness|daytime sleepiness|sleep restless|sleep talking|sleep walking|sleepwalking|sleep attacks|sleepy|slept|chronic insomnia|initial insomnia|insomnia|difficulty sleeping||disorder sleep|other sleep disorders|Trouble Sleeping|wakefulness|Awake,0.223082478,Known
+addiction|drug addiction|drug dependence,0.106648658,Known
+talkativeness,0.027443216,Known
+head|head cold|head fullness|head heaviness|head injury|head pressure|head spinning|head tightness,0.014663764,Known
+aggressiveness|anger|Anger Issues|angry|frustration,0.006337644,Known
+dependence on|dependence physiological|dependence psychological,0.005544519,Known
+nervous|nervousness,0.004773129,Known
+depression agitated|depression anxiety|depression central nervous system|depression functional|depression mental|depression neurotic|depression nos|depression psychotic|depression respiratory|depression suicidal|depression with suicidal|depression worsened|depressions|depressive disorders|depressive psychosis|depressive reaction|depressive state|depressive symptom|reactive depression|cns depression|antidepressant treatment|agitated|agitated depression|st depressed|seasonal depression|respiratory depression|psychosis depressive|mental depression|major depression|manic depression|major depressive disorder|psychotic depression,0.002743942,Known
+stroke,0.002564255,Known
+pupils dilated,0.0021872,Known
+argumentativeness,0.002057245,Known
+anxiety|anxiety attack|anxiety complex|anxiety disorder|anxiety nec|anxiety reaction|anxiety state|anxiousness|anticipatory anxiety|symptom of anxiety|social anxiety|social anxiety disorder|social withdrawal|reaction anxiety|performance anxiety|agoraphobia|gad,0.001984759,Known
+sweating,0.0018228,Known
+drug abuse|drug habit|drug ineffective|drug interaction|drug intoxication|drug overdose|drug reaction|drug tolerance|drug toxicity|drug withdrawal,0.001401103,Known
+hyper|hyperactive behavior|hyperactivity,0.001164875,Known
+seizure disorders|seizures|seizures worse,0.001133381,Known
+nervous breakdown|nervous disorders|nervous system|nerve damage,0.001077941,Known
+"sex dysfunction|sexual|sexual dysfunction|sexually active|libido decreased,libido loss of|loss of libido|reduced libido|decreased libido",0.000926396,Known
+diarrhea|diarrhea nos|diarrhoea,0.000838323,Known
+urinary infection|urinary retention|urinary tract infections|Urination,0.000837321,Known
+dependence addictive,0.000809158,Known
+fever sore|fevers,0.000807199,Known
+body numbness|numbness|numbness face|numbness in leg|generalized numbness,0.00074303,Known
+altered mood|mood altered|irritable mood|increased mood|elevated mood|mood change|mood disorders|mood disturbances|mood elevated|mood swings,0.000717167,Known
+constipated,0.000628968,Known
+twitching,0.000628761,Known
+clenching teeth|Teeth Clenching|teeth grinding|jaw stiffness|jaw tightness|jitteriness|feeling jittery,0.0005391,Known
+attempted suicide|suicide gesture|commit suicide|completed suicide|suicidal behavior|suicidal depression|suicidal ideation|suicidal tendency|suicidal thoughts|suicide|suicide attempt,0.000530551,Known
+dysfunction,0.000508723,Known
+Blur|blurred vision|blurry vision|vision blurred|vision decreased|vision loss|tunnel vision|double vision,0.000507887,Known
+dizziness|dizzy spell|dizzyness|drowsy,0.00050719,Known
+rash|rash nos|rash over,0.000478626,Known
+"allergic|allergic reaction,allergy",0.000448109,Known
+alopecia|other alopecia|thinning hair|hair loss|falling hair|hair thinning|thinning of hair,0.000359335,Known
+weight decreased|weight loss|loss of weight|lose weight,0.000299347,Known
+increase in blood pressure|increased blood pressure|increased pulse rate|blood pressure high|high blood pressure|elevated blood pressure,0.000269526,Known
+muscle cramps|muscle discomfort|muscle mass|muscle pains|muscle relaxation|muscle soreness|muscle spasm|muscle spasticity|muscle stiffness|muscle tightness|muscle tremor|muscle twitch|muscle weakness,0.000238635,Known
+cardiac arrest|cardiac death,0.00020975,Known
+throw up,0.000179249,Known
+appetite decreased|appetite disorder|appetite lost|appetite stimulated|loss of appetite|lack of appetite|decrease in appetite,0.00014979,Known
+migraine|migraine headache|migraine nos|chronic migraine|aggravated migraine,0.000149316,Known
+abdomen|abdominal pains|,0.223082478,Unknown
+abuse|abuse with addiction,0.057916573,Unknown
+attention deficit|attention deficit disorder with hyperactivity|adhd|impaired concentration|inability to concentrate|Trouble Focusing|unable to concentrate|poor concentration|Lack of attention|Lack of concentration|confusion|mental confusion,0.047161777,Unknown
+ill feeling|illness|sick|sick to my stomach,0.014362318,Unknown
+alcohol abuse|alcohol consumption|alcohol craving|alcohol dependence|alcohol intolerance|alcohol intoxication|alcohol problem|alcohol withdrawal|alcoholism,0.012549063,Unknown
+short term memory|short term memory loss|memory impairment|memory loss|memory loss of|loss of memory|forgetfulness,0.011720877,Unknown
+dementia,0.010150769,Unknown
+put on weight|weight gains|gain a lot of weight|gain lbs|gain pounds|gain weight|weight increased|weight problem|fat,0.009905381,Unknown
+red blotches|red eye|red face|red man|redness,0.007339342,Unknown
+drunk|drunkenness,0.006686413,Unknown
+fall|falling down|falling out,0.005877167,Unknown
+overdose|overdose effect,0.005797687,Unknown
+delusions,0.005530477,Unknown
+bad dreams|weird dreams|vivid dreams|dreams|bizarre dreams|crazy dreams|wild dreams|detailed recall of dream,0.005429603,Unknown
+fear|Fear of death|fear of dying,0.004766248,Unknown
+psychosis,0.00472884,Unknown
+sadness,0.004676312,Unknown
+crying|crying uncontrollable,0.004501921,Unknown
+moronity,0.004119403,Unknown
+slurred|slurred speech|stuttering,0.00405486,Unknown
+incoherent,0.004011736,Unknown
+cold feet|cold sweat|cold symptoms|coldness|common cold,0.003945935,Unknown
+symptoms,0.003209414,Unknown
+lunatism,0.003078026,Unknown
+exhaustion|extreme exhaustion|extremities disorders|feelings of weakness|weakness|weakness postural,0.003024911,Unknown
+death|death sudden|death of mother,0.003009804,Unknown
+stress disorder|stress reaction|stress symptoms|stressed,0.002911922,Unknown
+chilliness|chills,0.002836558,Unknown
+acid reflux|Acidity|indigestion acid,0.002706201,Unknown
+manic,0.002686888,Unknown
+syphilis,0.002636704,Unknown
+withdrawal|withdrawal emotional|withdrawal headache|withdrawal seizures|withdrawal syndrome|withdrawl|withdrawn,0.002505158,Unknown
+tanning,0.002479166,Unknown
+bone spur,0.002426312,Unknown
+paranoia,0.002153754,Unknown
+detachment|detachment emotional|emotional|emotional problems|emotional reaction|emotional withdrawal|emotionally numb|reaction emotional,0.002097841,Unknown
+pressure|pressure chest,0.002022786,Unknown
+panic|panic attacks|panic disorder|panic disorder with agoraphobia,0.002015026,Unknown
+excitement,0.001783644,Unknown
+bloating,0.001767631,Unknown
+enteritis,0.001760563,Unknown
+murder,0.001718366,Unknown
+malignancies|malignant syndrome,0.001618026,Unknown
+oppositional,0.001612855,Unknown
+shock,0.001608531,Unknown
+shakiness|shaking|shivering,0.001549695,Unknown
+tired|tiredness|fatigue|lethargic|lethargy,0.001516052,Unknown
+flu|flu symptoms,0.001511917,Unknown
+misuse,0.001494098,Unknown
+Morphine,0.00148978,Unknown
+tolerance,0.001429082,Unknown
+metabolic,0.001406933,Unknown
+spotting,0.001404201,Unknown
+alarm,0.001401855,Unknown
+toxicity,0.001373831,Unknown
+"sinus|sinus headache|sinus infection|sinusitis,sinusitis nos",0.001317918,Unknown
+relaxed,0.001256281,Unknown
+assault,0.001192428,Unknown
+coughing|coughing blood,0.001190547,Unknown
+fog|foggy,0.001166128,Unknown
+flush,0.001160576,Unknown
+"breath holding|breathing difficult|Breathing Problem|breathing shallow|breathing slowed|difficulty breathing,shortness of breath|shallow breathing|labored breathing|gasping for breath|deep breath|gasping|slow respiration",0.001159369,Unknown
+irrational|irrational thoughts,0.001136908,Unknown
+tearing,0.001131727,Unknown
+obesity,0.001108415,Unknown
+impaction,0.001105369,Unknown
+obsessions,0.001102897,Unknown
+Euphoria|euphoric,0.001077748,Unknown
+central nervous system|central nervous system depression|central nervous system stimulation,0.001048187,Unknown
+tics,0.001045057,Unknown
+hunger|hunger pangs|hungry,0.001016169,Unknown
+upset|upset stomach,0.001012688,Unknown
+sedation,0.000984399,Unknown
+bloodshot eyes,0.000959003,Unknown
+feel awful|feel weird|feeling abnormal|feeling bad|feeling cold|feeling detached|feeling drunk|feeling floating|feeling high|feeling hot|feeling lack of|feeling of despair|feeling strange|feeling tense|feeling unreal|feeling unwell|feelings of worthlessness|felt terrible|weird feeling|strange feeling|sinking feeling|light headed feeling|high feeling|lightheaded feeling|light headedness|lightheaded,0.000947502,Unknown
+blindness|blindness day,0.000895228,Unknown
+drooling,0.000867666,Unknown
+mania,0.000867458,Unknown
+abortion,0.000867147,Unknown
+eye redness,0.000838826,Unknown
+irritability,0.000836995,Unknown
+hangover|hangover effect,0.000836795,Unknown
+squint,0.000809037,Unknown
+obstruction,0.000808698,Unknown
+itching|itching skin|itchy,0.000806018,Unknown
+disabilities,0.000803452,Unknown
+reaction,0.000774455,Unknown
+birth control,0.000774363,Unknown
+snoring,0.000718843,Unknown
+pregnancy,0.000717618,Unknown
+choking|choking sensation,0.000716482,Unknown
+wandering,0.000688788,Unknown
+personality disorder,0.000688726,Unknown
+intoxication,0.00065888,Unknown
+bleeding|minor bleed,0.000658151,Unknown
+sensitization,0.00065758,Unknown
+habituation,0.000629176,Unknown
+dehydration,0.000629082,Unknown
+imbecility,0.000628968,Unknown
+scaling,0.000627615,Unknown
+invasion,0.00059882,Unknown
+stumbling,0.000598802,Unknown
+collapse,0.000597979,Unknown
+vomiting|vomiting blood|vomiting nos,0.000597389,Unknown
+coma,0.000596054,Unknown
+diabetes,0.000568199,Unknown
+doped up,0.000567944,Unknown
+infection|infection breast|infection nos,0.00053868,Unknown
+passed out,0.000534458,Unknown
+brain death|brain disorder|brain fog|brain irritation|brain tumor,0.000508708,Unknown
+violent,0.000508434,Unknown
+accident nos|accidents,0.000506873,Unknown
+immunity,0.000478798,Unknown
+dullness,0.000478755,Unknown
+geriatric,0.000449344,Unknown
+battery,0.000448739,Unknown
+runny nose,0.000419551,Unknown
+dopey,0.0004194,Unknown
+neuronitis,0.000418974,Unknown
+autism,0.000417935,Unknown
+hostility,0.000389105,Unknown
+impotence,0.000359464,Unknown
+Horny,0.000359088,Unknown
+idiocy,0.000329598,Unknown
+pale,0.000329529,Unknown
+suspiciousness,0.000329519,Unknown
+stds,0.000299536,Unknown
+Aneurism|aneurysms,0.000299482,Unknown
+gagging,0.000299446,Unknown
+mental deterioration|mental disorders|mental impairment,0.000299204,Unknown
+stiff back|stiff neck|stiffness,0.000298998,Unknown
+automatism,0.000298882,Unknown
+boil,0.000298668,Unknown
+bipolar depression|bipolar disorder|bipolar i disorder,0.000298597,Unknown
+nausea|nausea and vomiting|nauseated|nauseous,0.000298454,Unknown
+ptsd|post traumatic stress disorder|posttraumatic stress disorder,0.000297646,Unknown
+dyslexia,0.000269703,Unknown
+eruptions,0.000269695,Unknown
+neurotoxicity,0.000269679,Unknown
+lump,0.000269655,Unknown
+behavior addictive|behavior disorder|behavior problems,0.000269639,Unknown
+delirium|delirium tremens,0.000269639,Unknown
+stupor,0.000269614,Unknown
+irresponsibility,0.000269526,Unknown
+"tinnitus,buzzing in ear,hearing loss|hearing problem|ear congestion|ear diseases|ear disorder|ear disorder nos|ear hissing|ear infection|ear noises|ear ringing|ear roaring|earache|infection of ear|roaring in ear",0.000269284,Unknown
+crippled,0.000268962,Unknown
+swelling,0.000239729,Unknown
+psychosis manic|psychosis paranoid|psychotic behavior|psychotic episodes,0.000239664,Unknown
+cerebritis,0.00023965,Unknown
+hesitancy,0.000239571,Unknown
+illusion,0.000239557,Unknown
+flashbacks,0.000239399,Unknown
+cns stimulation,0.000209788,Unknown
+atopic,0.00020975,Unknown
+infestation,0.00020975,Unknown
+aspiration,0.000209706,Unknown
+schizophrenia,0.000209681,Unknown
+moaning,0.000209662,Unknown
+fuzzy|fuzzy head,0.000209562,Unknown
+burping,0.000209531,Unknown
+traumas,0.000209462,Unknown
+blackout,0.000209186,Unknown
+bulimia|eating disorder,0.000209061,Unknown
+nasal congestion|nasal stuffiness,0.000179824,Unknown
+sympathomimetic,0.000179824,Unknown
+cysts,0.000179802,Unknown
+parkinsonism,0.000179781,Unknown
+sneezing,0.000179759,Unknown
+serotonin syndrome,0.000179657,Unknown
+setting fires,0.000179576,Unknown
+distress,0.00017956,Unknown
+tension,0.00017956,Unknown
+bad breath|bad taste,0.000179522,Unknown
+abscess,0.000149844,Unknown
+food poisoning,0.00014984,Unknown
+hypomania,0.00014984,Unknown
+wheeze,0.000149835,Unknown
+crusting,0.000149831,Unknown
+short period,0.000149826,Unknown
+giddiness,0.000149817,Unknown
+spasticity,0.000149817,Unknown
+ast increased,0.000149813,Unknown
+thirst|thirsty|increased thirst,0.00014979,Unknown
+comatose,0.000149763,Unknown
+cortex,0.000149759,Unknown
+disconnected,0.000149745,Unknown
+fractures,0.000149745,Unknown
+cramp|cramp legs|cramps in legs,0.000149692,Unknown
+blister,0.000149642,Unknown
+laughter,0.000149642,Unknown
+hair growth|hairiness,0.00014949,Unknown
+eye blood shot,0.000119879,Unknown
+low blood pressure,0.000119875,Unknown
+paranoid delusions,0.000119875,Unknown
+colostomy,0.000119872,Unknown
+slowed thinking,0.000119872,Unknown
+alzheimer disease,0.000119868,Unknown
+staggering,0.000119868,Unknown
+Sugar rush,0.000119868,Unknown
+digestive system,0.000119865,Unknown
+psychiatric disorders|psychiatric symptoms,0.000119865,Unknown
+regurgitation,0.000119861,Unknown
+wrinkling,0.000119857,Unknown
+tenderness,0.000119854,Unknown
+sluggishness,0.000119847,Unknown
+dyskinesias,0.000119843,Unknown
+jumpiness,0.000119843,Unknown
+eye rolling,0.000119839,Unknown
+thinking irrational|thinking slow|thinking sluggish,0.000119839,Unknown
+bruise,0.000119814,Unknown
+hypertension|hypertension arterial|hypertension nos,0.0001198,Unknown
+acne nos|acnes|cystic acne,0.000119793,Unknown
+dazed,0.000119782,Unknown
+dissociation,0.000119764,Unknown
+faint feeling|fainting,0.000119753,Unknown
+thyroiditis,0.000119753,Unknown
+epilepsy|epileptic|epileptic seizures,0.000119746,Unknown
+hyperventilation,0.000119746,Unknown
+teething,0.000119599,Unknown
+ocd|obsessive compulsive disorder,0.0001192,Unknown
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
