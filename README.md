@@ -1,7 +1,7 @@
 # Leveraging digital media data for pharmacovigilance
 A social network based pharmacovigilance.
 
-This repository contains the dataset used in our paper titled **"Leveraging digital media data for pharmacovigilance"** that is submitted at **"AMIA 2020 Annual Symposium"**.
+This repository contains the dataset used in our [paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8075481/) titled **"Leveraging digital media data for pharmacovigilance"** that is accepted at **"AMIA 2020 Annual Symposium"**.
 
 ## Files details
 
